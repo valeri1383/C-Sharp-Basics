@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\bin\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.exe
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\bin\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.deps.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\bin\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\bin\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\bin\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\bin\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\obj\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\obj\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\obj\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\obj\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\obj\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\obj\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\obj\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. SoftUni Parking Dictionarys\obj\Debug\netcoreapp3.1\5. SoftUni Parking Dictionarys.genruntimeconfig.cache
