@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\bin\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.exe
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\bin\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.deps.json
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\bin\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.runtimeconfig.json
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\bin\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\bin\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.dll
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\bin\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.pdb
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\obj\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\obj\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\obj\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\obj\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\obj\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\obj\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.dll
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\obj\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.pdb
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\1.  Valid Usernames Text Processing\obj\Debug\netcoreapp3.1\1.  Valid Usernames Text Processing.genruntimeconfig.cache
