@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.exe
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.deps.json
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.runtimeconfig.json
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.dll
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.pdb
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.dll
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.pdb
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.genruntimeconfig.cache
+C:\Users\User\source\repos\1. Reverse Strings Text Processing\6.  Replace Repeating Chars Text Processing\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars Text Processing.csproj.AssemblyReference.cache
