@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Plant Discovery Exam Task/1.0.0": {
+        "runtime": {
+          "Plant Discovery Exam Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plant Discovery Exam Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
