@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\bin\Debug\netcoreapp3.1\P!rates Exam Task.exe
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\bin\Debug\netcoreapp3.1\P!rates Exam Task.deps.json
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\bin\Debug\netcoreapp3.1\P!rates Exam Task.runtimeconfig.json
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\bin\Debug\netcoreapp3.1\P!rates Exam Task.runtimeconfig.dev.json
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\bin\Debug\netcoreapp3.1\P!rates Exam Task.dll
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\bin\Debug\netcoreapp3.1\P!rates Exam Task.pdb
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\obj\Debug\netcoreapp3.1\P!rates Exam Task.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\obj\Debug\netcoreapp3.1\P!rates Exam Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\obj\Debug\netcoreapp3.1\P!rates Exam Task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\obj\Debug\netcoreapp3.1\P!rates Exam Task.AssemblyInfo.cs
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\obj\Debug\netcoreapp3.1\P!rates Exam Task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\obj\Debug\netcoreapp3.1\P!rates Exam Task.dll
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\obj\Debug\netcoreapp3.1\P!rates Exam Task.pdb
+C:\Users\User\source\repos\P!rates Exam Task\P!rates Exam Task\obj\Debug\netcoreapp3.1\P!rates Exam Task.genruntimeconfig.cache
