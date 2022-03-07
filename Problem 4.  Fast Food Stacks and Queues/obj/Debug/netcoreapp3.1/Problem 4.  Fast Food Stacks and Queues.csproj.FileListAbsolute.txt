@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\bin\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.exe
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\bin\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.deps.json
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\bin\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.runtimeconfig.json
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\bin\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\bin\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.dll
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\bin\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.pdb
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\obj\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\obj\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\obj\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\obj\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\obj\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.dll
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\obj\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.pdb
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\obj\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.genruntimeconfig.cache
+C:\Users\User\source\repos\1. Reverse Strings Stacks and Queues\Problem 4.  Fast Food Stacks and Queues\obj\Debug\netcoreapp3.1\Problem 4.  Fast Food Stacks and Queues.csproj.AssemblyReference.cache
