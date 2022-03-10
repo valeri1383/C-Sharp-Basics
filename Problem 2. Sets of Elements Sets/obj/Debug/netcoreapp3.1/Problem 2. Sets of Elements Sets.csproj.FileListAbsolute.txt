@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.exe
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.deps.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.runtimeconfig.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 2. Sets of Elements Sets\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements Sets.genruntimeconfig.cache
