@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\bin\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.exe
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\bin\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.deps.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\bin\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.runtimeconfig.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\bin\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\bin\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\bin\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\obj\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\obj\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\obj\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\obj\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\obj\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\obj\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\4. Cities by Continent and Country Nested\obj\Debug\netcoreapp3.1\4. Cities by Continent and Country Nested.genruntimeconfig.cache
