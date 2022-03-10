@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.exe
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.deps.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.runtimeconfig.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.genruntimeconfig.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 5. Count Symbols Dictionarys\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols Dictionarys.csproj.AssemblyReference.cache
