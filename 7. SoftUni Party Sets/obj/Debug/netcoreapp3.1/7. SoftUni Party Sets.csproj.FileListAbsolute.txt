@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\bin\Debug\netcoreapp3.1\7. SoftUni Party Sets.exe
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\bin\Debug\netcoreapp3.1\7. SoftUni Party Sets.deps.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\bin\Debug\netcoreapp3.1\7. SoftUni Party Sets.runtimeconfig.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\bin\Debug\netcoreapp3.1\7. SoftUni Party Sets.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\bin\Debug\netcoreapp3.1\7. SoftUni Party Sets.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\bin\Debug\netcoreapp3.1\7. SoftUni Party Sets.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\obj\Debug\netcoreapp3.1\7. SoftUni Party Sets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\obj\Debug\netcoreapp3.1\7. SoftUni Party Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\obj\Debug\netcoreapp3.1\7. SoftUni Party Sets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\obj\Debug\netcoreapp3.1\7. SoftUni Party Sets.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\obj\Debug\netcoreapp3.1\7. SoftUni Party Sets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\obj\Debug\netcoreapp3.1\7. SoftUni Party Sets.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\obj\Debug\netcoreapp3.1\7. SoftUni Party Sets.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\7. SoftUni Party Sets\obj\Debug\netcoreapp3.1\7. SoftUni Party Sets.genruntimeconfig.cache
