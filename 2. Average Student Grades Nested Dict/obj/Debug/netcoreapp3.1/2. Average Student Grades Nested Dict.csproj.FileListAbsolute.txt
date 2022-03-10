@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\bin\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.exe
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\bin\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.deps.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\bin\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.runtimeconfig.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\bin\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\bin\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\bin\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\obj\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\obj\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\obj\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\obj\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\obj\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\obj\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\obj\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\2. Average Student Grades Nested Dict\obj\Debug\netcoreapp3.1\2. Average Student Grades Nested Dict.genruntimeconfig.cache
