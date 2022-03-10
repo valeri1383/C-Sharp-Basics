@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1. Count Same Values in Array Sets and Nested Dict/1.0.0": {
+        "runtime": {
+          "1. Count Same Values in Array Sets and Nested Dict.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1. Count Same Values in Array Sets and Nested Dict/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
