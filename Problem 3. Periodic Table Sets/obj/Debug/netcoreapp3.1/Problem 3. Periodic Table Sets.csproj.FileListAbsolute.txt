@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.exe
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.deps.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.runtimeconfig.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 3. Periodic Table Sets\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table Sets.genruntimeconfig.cache
