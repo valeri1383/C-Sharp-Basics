@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\bin\Debug\netcoreapp3.1\5. Record Unique Names Sets.exe
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\bin\Debug\netcoreapp3.1\5. Record Unique Names Sets.deps.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\bin\Debug\netcoreapp3.1\5. Record Unique Names Sets.runtimeconfig.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\bin\Debug\netcoreapp3.1\5. Record Unique Names Sets.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\bin\Debug\netcoreapp3.1\5. Record Unique Names Sets.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\bin\Debug\netcoreapp3.1\5. Record Unique Names Sets.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\obj\Debug\netcoreapp3.1\5. Record Unique Names Sets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\obj\Debug\netcoreapp3.1\5. Record Unique Names Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\obj\Debug\netcoreapp3.1\5. Record Unique Names Sets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\obj\Debug\netcoreapp3.1\5. Record Unique Names Sets.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\obj\Debug\netcoreapp3.1\5. Record Unique Names Sets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\obj\Debug\netcoreapp3.1\5. Record Unique Names Sets.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\obj\Debug\netcoreapp3.1\5. Record Unique Names Sets.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\5. Record Unique Names Sets\obj\Debug\netcoreapp3.1\5. Record Unique Names Sets.genruntimeconfig.cache
