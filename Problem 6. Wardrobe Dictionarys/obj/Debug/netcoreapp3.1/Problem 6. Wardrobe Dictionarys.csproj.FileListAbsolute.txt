@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.exe
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.deps.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.runtimeconfig.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.runtimeconfig.dev.json
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.AssemblyInfo.cs
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.dll
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.pdb
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.genruntimeconfig.cache
+C:\Users\User\source\repos\1. Count Same Values in Array Sets and Nested Dict\Problem 6. Wardrobe Dictionarys\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe Dictionarys.csproj.AssemblyReference.cache
